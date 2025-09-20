@@ -1,3 +1,9 @@
+HEAD
 Q1: Why might we consider using Git?
 
 Answer: To collaborate on projects
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Finance
+q2
